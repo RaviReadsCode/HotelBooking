@@ -56,4 +56,5 @@ A simple yet powerful RESTful API built using **Spring Boot**, designed to manag
 
 1. **Clone the repository**
    git clone https://github.com/your-username/hotel-management-api.git
+   
    cd hotel-management-api
